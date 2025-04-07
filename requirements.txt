@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+gspread
+oauth2client
+selenium
+beautifulsoup4
+requests
+# force rebuild
+selenium==4.10.0
